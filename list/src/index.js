@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Hello from './hello.js'
+import TextForm from './textform.js'
 
-ReactDOM.render(<Hello msg="Hello, world"/>, document.getElementById('root'));
+ReactDOM.render(<TextForm />, document.getElementById('root'));
